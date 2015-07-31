@@ -2,6 +2,8 @@
 
 > Simple light theme for lxdm.
 
+![screenshot](https://raw.githubusercontent.com/aureooms/lxdm-mono-light/master/lxdm-mono-light-screenshot.png)
+
 There is also a [dark version](https://github.com/aureooms/lxdm-mono-dark).
 
 # Install
